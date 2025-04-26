@@ -11,6 +11,6 @@
 `Note: Its Developed By A Student Of Programming Languages So If You Finds Any Errors , Please Submit A Pull Request With Complete Details 💝`
 
 
-| [![TOHID KHAN](https://github.com/Tohidkhan6332.png?size=100)](https://github.com/Tohidkhan6322) |
+| [![TOHID KHAN](https://github.com/Tohidkhn6332.png?size=100)](https://github.com/Tohidkhan6322) |
 | --- |
 | [Tohid Khan](https://github.com/Tohidkhn6332) |
