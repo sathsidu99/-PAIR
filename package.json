@@ -1,16 +1,16 @@
 {
-  "description": "tohid-pair-code",
-  "main": "./tohid.js",
+  "description": "gifted-pair-code",
+  "main": "./gifted.js",
   "type": "commonjs",
   "engines" : { 
     "node" : ">=20.0.0"
     },
     "scripts": {
-      "start": "pm2 start tohid.js --deep-monitoring --attach --name gifted",
-      "stop": "pm2 stop tohid",
-     "restart": "pm2 restart tohid"
+      "start": "pm2 start gifted.js --deep-monitoring --attach --name gifted",
+      "stop": "pm2 stop gifted",
+     "restart": "pm2 restart gifted"
     },
-  "author": "Tohid Tech",
+  "author": "Gifted Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.7",
